@@ -279,7 +279,7 @@ function sqlConnection($conn, $option, $latitude, $longitude) {
           </div>
       </form>
 
-      <script src="form-validation.js"></script>
+      <script src="form_validation.js"></script>
 
       </div>
       <div id="map" class="col text-center" style="width: 600px; height: 400px;"></div>
